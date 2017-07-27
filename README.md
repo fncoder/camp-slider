@@ -2,7 +2,7 @@
 
 > campSlider is a simple responsive HTML content slider for each page.
 
-[See online](https://fncoder.github.io/campSlider/)
+[See online](https://fncoder.github.io/camp-slider/)
 
 ## How to use
 
