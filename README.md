@@ -2,11 +2,7 @@
 
 > campSlider is a simple responsive HTML content slider for each page.
 
-<<<<<<< HEAD
 [See online](https://fncoder.github.io/campslider/)
-=======
-[See online](https://fncoder.github.io/camp-slider/)
->>>>>>> b43fa65cb0f3bd6934d697b10742912f099d0b57
 
 ## How to use
 
@@ -30,7 +26,6 @@ Main slider in your Body tag:
 <div class="camp-wrapper">
 	<ul class="slides">
 		<li class="slide">
-<<<<<<< HEAD
 			<img src="https://wallpaperscraft.com/image/field_dawn_sky_beautiful_scenery_87654_1920x1080.jpg" alt="nature">
 		</li>
 		<li class="slide">
@@ -38,15 +33,6 @@ Main slider in your Body tag:
 		</li>
 		<li class="slide">
 			<img src="https://wallpaperscraft.com/image/mountains_sky_clouds_mountain_range_stones_99500_1920x1080.jpg" alt="nature">
-=======
-			<img src="https://wallpaperscraft.com/image/field_dawn_sky_beautiful_scenery_87654_1920x1080.jpg">
-		</li>
-		<li class="slide">
-			<img src="https://www.qdtricks.net/wp-content/uploads/2016/05/latest-1080-wallpaper.jpg">
-		</li>
-		<li class="slide">
-			<img src="https://wallpaperscraft.com/image/mountains_sky_clouds_mountain_range_stones_99500_1920x1080.jpg">
->>>>>>> b43fa65cb0f3bd6934d697b10742912f099d0b57
 		</li>
 	</ul>
 </div>
